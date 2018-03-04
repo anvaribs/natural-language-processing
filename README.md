@@ -1,3 +1,5 @@
+# Instructions:
+
 You are about to start working on the first Python assignment for our course. Before doing so, please carefully read the instructions below.
 
 Every week you will have an IPython notebook with instructions and some code prepared for you (written in Python 3!). You will need to work through it and complete. All assignments and related materials can be found in the GitHub repository of our course.
